@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App2</string>
+    <string name="title">Picture downloader</string>
+    <string name="status">Status:</string>
+    <string name="idle_status">Idle</string>
+    <string name="downloading_status">Downloading</string>
+    <string name="downloaded_status">Downloaded</string>
+    <string name="download_button">Download</string>
+    <string name="open_button">Open</string>
+    <string name="uri_picture">http://cdn.droidtune.com/wp-content/uploads/2012/07/aosp_0-150x150.jpg</string>
+</resources>
